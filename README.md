@@ -1,2 +1,6 @@
 # Statistical_Laboratory_R_Code_Samples
-Coding projects done in R for ST121 Coursework
+Coding excerpts in R completed for ST121 Coursework
+
+## Assignment 1
+
+## Assignment 2
